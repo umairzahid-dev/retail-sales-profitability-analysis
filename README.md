@@ -23,7 +23,7 @@ Superstore retail dataset containing:
 - Discount
 - Region
 
-- ## Analysis Performed
+ ## Analysis Performed
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
